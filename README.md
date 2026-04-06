@@ -1,4 +1,4 @@
-# Best-Buy-Retail-Store-P.O.S-sytem
+# Best-Buy-Retail-Store-P.O.S-system
 point of sale system for Best Buy Retail Store 
 
 Authors:  Ashanti Allen & Shemar Cameron
